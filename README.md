@@ -1,7 +1,6 @@
 # ***Real Real-Estate***
 
-***Proje Tanımı:***
-*realreal-estale.com* platformu, hem ev sahiplerine hem de ev arayanlara yönelik hizmetler sunarak, emlak sektöründe dijital bir köprü oluşturmayı hedeflemektedir.Kapsamlı emlak portföyleriyle özel mülklerin satışını ve kiralamasını kolaylaştırmak için kullanıcı dostu bir arayüz ve kapsamlı özellikler sunar. Müşteriler, istedikleri özelliklere göre filtreleme yapararak güçlü arama özellikleri ile aradıkları gayrimenkullere kolayca ulaşabilirler. 
+***Proje Tanımı:*** *realreal-estale.com* platformu, hem ev sahiplerine hem de ev arayanlara yönelik hizmetler sunarak, emlak sektöründe dijital bir köprü oluşturmayı hedeflemektedir.Kapsamlı emlak portföyleriyle özel mülklerin satışını ve kiralamasını kolaylaştırmak için kullanıcı dostu bir arayüz ve kapsamlı özellikler sunar. Müşteriler, istedikleri özelliklere göre filtreleme yapararak güçlü arama özellikleri ile aradıkları gayrimenkullere kolayca ulaşabilirler. 
 
  ***Proje Kategorisi:*** Emlak
 
@@ -13,15 +12,18 @@
 
 ***Proje Ekibi:*** İrem Sude Uslu, Osman Selim Özkökeli, Muhammed Karakaş, Aybüke Tüfekçi
 
-1. [Proje Planı](#proje-plani)
-2. [Gereksinim Analizi](#gereksinim-analizi)
-3. [Durum Diyagramı](#durum-diyagrami)
-4. [Durum Senaryosu](#durum-senaryosu)
-5. [Veritabanı Diyagramı](#veritabanı-diyagramı)
-6. [Front-End](#front-end)
-7. [Back-End](#back-end)
-8. [Test](#test)
+1. [Proje Planı](proje-plani)
+2. [Gereksinim Analizi](gereksinim-analizi)
+3. [Durum Diyagramı](durum-diyagrami)
+4. [Durum Senaryosu](durum-senaryosu)
+5. [Veritabanı Diyagramı](veritabanı-diyagramı)
+6. [Front-End](front-end)
+7. [Back-End](back-end)
+8. [Test](test)
 9. [Geliştirici ve Kullanıcı Dokümantasyonları](gelistirici-ve-kullanıcı-dokumantasyonu)
 
 # Proje Planı
 jhgftdxfcgvhbjuıklşöç mnjbhgj
+
+
+
