@@ -13,7 +13,7 @@
 ***Proje Ekibi:*** İrem Sude Uslu, Osman Selim Özkökeli, Muhammed Karakaş, Aybüke Tüfekçi
 
 1. [Proje Planı](./proje-plani.md)
-2. [Gereksinim Analizi](gereksinim-analizi.md)
+2. [Gereksinim Analizi](./gereksinim-analizi.md)
 3. [Durum Diyagramı](durum-diyagrami)
 4. [Durum Senaryosu](durum-senaryosu)
 5. [Veritabanı Diyagramı](veritabanı-diyagramı)
@@ -22,7 +22,7 @@
 8. [Test](test)
 9. [Geliştirici ve Kullanıcı Dokümantasyonları](gelistirici-ve-kullanıcı-dokumantasyonu)
 
-# Proje Planı
+
 
 
 
