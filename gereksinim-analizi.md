@@ -1,4 +1,4 @@
-#GEREKSİNİM ANALİZİ:
+# GEREKSİNİM ANALİZİ:
 
 1. Kayıt Olma
 2. Oturum Açma
@@ -25,13 +25,12 @@
 23. Danışman Yıldızlama
 24. Danışman Listeleme
 
-#GEREKSİNİM DAĞILIMLARI:
+# GEREKSİNİM DAĞILIMLARI:
 1.[İrem Sude USLU'nun Gereksinimleri](./iremg.md)
+
 2.[Muhammet KARAKAŞ'ın Gereksinimleri](./muhammetg.md)
-3.[Gereksinimleri](./g.md)
 
+3.[Aybüke TÜFEKÇİ'nin Gereksinimleri](./aybükeg.md)
 
+4.[Osman Selim ÖZKÖKELİ'nin Gereksinimleri](./selimg.md)
 
-
-[Gereksinimleri](./g.md)
-Muhammed Karakaş
