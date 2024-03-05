@@ -26,11 +26,11 @@
 24. Danışman Listeleme
 
 # GEREKSİNİM DAĞILIMLARI:
-1.[İrem Sude USLU'nun Gereksinimleri](./iremg.md)
+1. [İrem Sude USLU'nun Gereksinimleri](./iremg.md)
 
-2.[Muhammet KARAKAŞ'ın Gereksinimleri](./muhammetg.md)
+2. [Muhammet KARAKAŞ'ın Gereksinimleri](./muhammetg.md)
 
-3.[Aybüke TÜFEKÇİ'nin Gereksinimleri](./aybükeg.md)
+3. [Aybüke TÜFEKÇİ'nin Gereksinimleri](./aybükeg.md)
 
-4.[Osman Selim ÖZKÖKELİ'nin Gereksinimleri](./selimg.md)
+4. [Osman Selim ÖZKÖKELİ'nin Gereksinimleri](./selimg.md)
 
