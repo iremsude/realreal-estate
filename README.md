@@ -10,7 +10,7 @@
 
 ***Grup Adı:*** Wolfteam
 
-***Proje Ekibi:*** İrem Sude Uslu, Osman Selim Özkökeli, Muhammed Karakaş, Aybüke Tüfekçi
+***Proje Ekibi:*** İrem Sude Uslu, Osman Selim Özkökeli, Muhammet Ali Karakaş, Aybüke Tüfekçi
 
 1. [Proje Planı](./proje-plani.md)
 2. [Gereksinim Analizi](./gereksinim-analizi.md)
