@@ -28,7 +28,7 @@
 # GEREKSİNİM DAĞILIMLARI:
 1. [İrem Sude USLU'nun Gereksinimleri](./iremg.md)
 
-2. [Muhammet KARAKAŞ'ın Gereksinimleri](./muhammetg.md)
+2. [Muhammet Ali KARAKAŞ'ın Gereksinimleri](./muhammetg.md)
 
 3. [Aybüke TÜFEKÇİ'nin Gereksinimleri](./aybükeg.md)
 
