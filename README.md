@@ -15,7 +15,7 @@
 1. [Proje Planı](./proje-plani.md)
 2. [Gereksinim Analizi](./gereksinim-analizi.md)
 3. [Durum Diyagramı](./durum-diyagrami)
-4. [Durum Senaryosu](./durum-senaryosu)
+4. [Durum Senaryosu](./durum-senaryosu.md)
 5. [Veritabanı Diyagramı](veritabanı-diyagramı)
 6. [Front-End](front-end)
 7. [Back-End](back-end)
