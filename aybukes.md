@@ -1,1 +1,1 @@
-[Aybukenin Senaryoları](https://github.com/iremsude/realreal-estate/blob/main/2111012069.pdf)
+[Aybukenin Senaryoları](https://github.com/iremsude/realreal-estate/files/14957858/2111012069.pdf)
