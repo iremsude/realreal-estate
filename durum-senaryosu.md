@@ -6,4 +6,4 @@
 
 [Aybüke TÜFEKÇİ](./aybukes.md)
 
-[Muhammet Ali KARAKAŞ](./)
+[Muhammet Ali KARAKAŞ](./muhammets.md)
