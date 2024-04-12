@@ -4,6 +4,6 @@
 
 [Selim ÖZKÖKELİ](./)
 
-[Aybüke TÜFEKÇİ](./)
+[Aybüke TÜFEKÇİ](./aybukes.md)
 
 [Muhammet Ali KARAKAŞ](./)
