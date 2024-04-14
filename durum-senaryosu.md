@@ -2,7 +2,7 @@
 
 [İrem Sude USLU](./irems.md)
 
-[Selim ÖZKÖKELİ](./)
+[Selim ÖZKÖKELİ](./selims.md)
 
 [Aybüke TÜFEKÇİ](./aybukes.md)
 
