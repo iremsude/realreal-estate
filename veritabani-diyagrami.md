@@ -1,1 +1,2 @@
+#VERİ TABANI DİYAGRAMI
 
